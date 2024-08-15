@@ -1,12 +1,17 @@
 ## Rock Paper Scissors game with REACT
 
+### using Class Component instead of function component
+
 ### 배포 주소
 
-https://main--shiny-frangipane-d7c726.netlify.app/
+https://inquisitive-caramel-9374f2.netlify.app/
 
 #### 사용 언어
 
 HTML, Tailwind, REACT
+
+#### 이 버전의 목표
+1. function component로 만든 프로젝트를 class component로 바꿔보기
 
 #### 목표 기능
 
